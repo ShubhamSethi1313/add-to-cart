@@ -47,6 +47,7 @@ const Header = () => {
   return (
     <>
       <Navbar bg="dark" variant="dark" style={{ height: "60px" }}>
+     <caption style={{color: "yellow",fontSize: 20,}} >Shubham Sethi</caption>
         <Container>
           <NavLink to="/" className="text-decoration-none text-light mx-3">
             Add to Cart
